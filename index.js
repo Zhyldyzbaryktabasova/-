@@ -85,10 +85,10 @@
 
 
 //15
-let sum = [];
-let sum1 = [1,3,4,6];
-console.log(sum.length);
-console.log(sum1.length);
-for (let i = 0;i <sum.length; i++) {
+//let sum = [];
+//let sum1 = [1,3,4,6];
+//console.log(sum.length);
+//console.log(sum1.length);
+//for (let i = 0;i <sum.length; i++) {
   
-}
+//}
