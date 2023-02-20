@@ -11,12 +11,12 @@
   //nameIs("Jyldyz")
   //surnameIs("Baryktabasova");
 
-  //2//function getConeVolume(h, r) {
-    //let V = 0
-    //let pi = 3.14
-    //console.log( V = (h * pi * (r  2) / 3));
-  //}
-  //getConeVolume(10., 5);
+  function getConeVolume(h, r) {
+    let V = 0
+    let pi = 3.14
+    console.log( V = (h * pi * (r  2) / 3));
+  }
+  getConeVolume(10., 5);
 
 
 //functionName(height, radius)
