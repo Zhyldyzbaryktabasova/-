@@ -1,4 +1,4 @@
-//My name is Jyldyz  Baryktabasova
+//1//My name is Jyldyz  Baryktabasova
   
 //function nameIs(name) {
     //console.log("my name is" + name);
@@ -11,7 +11,7 @@
   //nameIs("Jyldyz")
   //surnameIs("Baryktabasova");
 
-  //function getConeVolume(h, r) {
+  //2//function getConeVolume(h, r) {
     //let V = 0
     //let pi = 3.14
     //console.log( V = (h * pi * (r  2) / 3));
@@ -19,7 +19,7 @@
   //getConeVolume(10., 5);
 
 
-2//functionName(height, radius)
+//functionName(height, radius)
 //function getConeVolume(h, r) {
   //let V = 0
   //let pi = 3.14
@@ -27,7 +27,7 @@
 //}
 //getConeVolume(10., 5);
 
-3// Длина строки равна ...
+//3// Длина строки равна ...
 
 //function strLength(text) {
   //console.log(text.length)
