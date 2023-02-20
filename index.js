@@ -34,7 +34,7 @@
 //}
 //strLength("This is another")
 
-4// functionName(num) // Число - четное || Число - нечетное
+//4// functionName(num) // Число - четное || Число - нечетное
 //function isEven(num){
   //if(num % 2 === 0){
     //console.log("even - " + num)
