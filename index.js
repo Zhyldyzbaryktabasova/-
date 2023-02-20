@@ -78,10 +78,17 @@
 
 
 // // 7  functionName(a, b, c, d, e) // Периметр - ...
-function triangle(a, b, c, d, e) {
-  return a + b + c + d + e;
-}
-console.log(triangle(5,3,6,9,5))
+//function triangle(a, b, c, d, e) {
+ // return a + b + c + d + e;
+//}
+//console.log(triangle(5,3,6,9,5))
 
 
+//15
+let sum = [];
+let sum1 = [1,3,4,6];
+console.log(sum.length);
+console.log(sum1.length);
+for (let i = 0;i <sum.length; i++) {
   
+}
