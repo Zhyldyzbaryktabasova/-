@@ -1,6 +1,6 @@
-//1//My name is Jyldyz  Baryktabasova
+//My name is Jyldyz  Baryktabasova
   
-//function nameIs(name) {
+//1//function nameIs(name) {
     //console.log("my name is" + name);
   //}
 
@@ -11,12 +11,13 @@
   //nameIs("Jyldyz")
   //surnameIs("Baryktabasova");
 
-  function getConeVolume(h, r) {
-    let V = 0
-    let pi = 3.14
-    console.log( V = (h * pi * (r  2) / 3));
-  }
-  getConeVolume(10., 5);
+  //functionName(height, radius)
+  //function getConeVolume(h,r) {
+    //let V = 0
+    //let pi = 3.14
+    //console.log( V = (h * pi * (r 2) / 3));
+  //}
+  //getConeVolume(10., 5);
 
 
 //functionName(height, radius)
@@ -27,12 +28,12 @@
 //}
 //getConeVolume(10., 5);
 
-//3// Длина строки равна ...
+ //Длина строки равна ...
 
-//function strLength(text) {
-  //console.log(text.length)
-//}
-//strLength("This is another")
+function strLength(text) {
+  console.log(text.length)
+}
+strLength("This is another")
 
 //4// functionName(num) // Число - четное || Число - нечетное
 //function isEven(num){
