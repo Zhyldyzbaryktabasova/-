@@ -132,10 +132,9 @@
 
 
 //15
-//let sum = [];
-//let sum1 = [1,3,4,6];
-//console.log(sum.length);
-//console.log(sum1.length);
-//for (let i = 0;i <sum.length; i++) {
-  
-//}
+let num = [1,2,3,4,5,6,7,8,9,10];
+for (let i =2; i<=10;i++) {
+  if (i%2==0) {
+    console.log(i);
+  }
+}
