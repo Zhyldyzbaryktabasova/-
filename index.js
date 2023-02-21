@@ -90,11 +90,22 @@
   //console.log(i);
 //}
 //9//...
-let factor = 1;
-for (i = 1;i<9; i++) {
-  factor = i * factor;
+//let factor = 1;
+//for (i = 1;i<9; i++) {
+  //factor = i * factor;
+//}
+//console.log("8.(8!)");
+//10/1 4 9...
+function numSquer(n) {
+  let x ='';
+  let y =0;
+  for (let i =1;i<=n; i++) {
+    y +=(2*i-1);
+    x += y+'';
+  }
+  return x;
 }
-console.log("8.(8!)");
+console.log(numSquer(3));
 
 
 //15
