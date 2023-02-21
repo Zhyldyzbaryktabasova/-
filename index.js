@@ -73,17 +73,22 @@
 //console.log(square(5))
 
  //6//functionName(num)// Корень этого число равен 
-function root(a) {
-  return Math.sqrt(a)
-}
-console.log(root(25))
+//function root(a) {
+  //return Math.sqrt(a)
+//}
+//console.log(root(25))
 
 
   //7//functionName(a, b, c, d, e) // Периметр-...
-function triangle(a, b, c, d, e) {
-  return a + b + c + d + e;
+//function triangle(a, b, c, d, e) {
+  //return a + b + c + d + e;
+//}
+//console.log(triangle(5,3,6,9,5))
+
+//8// 0 3 6 9...
+for (i=0; i<35;i+=3) {
+  console.log(i);
 }
-console.log(triangle(5,3,6,9,5))
 
 
 //15
