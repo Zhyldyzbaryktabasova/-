@@ -67,23 +67,23 @@
 //}
 
 //5 квадрат числа
-function square(num){
-  return num = 2
-}
-console.log(square(5))
+//function square(num){
+  //return num = 2
+//}
+//console.log(square(5))
 
-// 6// functionName(num) // Корень этого числа равен
+ //functionName(num)// Корень этого число равен 
 //function root(a) {
   //return Math.sqrt(a)
 //}
 //console.log(root(25))
 
 
-// // 7  functionName(a, b, c, d, e) // Периметр - ...
-//function triangle(a, b, c, d, e) {
- // return a + b + c + d + e;
-//}
-//console.log(triangle(5,3,6,9,5))
+  //7//functionName(a, b, c, d, e) // Периметр-...
+function triangle(a, b, c, d, e) {
+  return a + b + c + d + e;
+}
+console.log(triangle(5,3,6,9,5))
 
 
 //15
