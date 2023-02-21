@@ -96,16 +96,22 @@
 //}
 //console.log("8.(8!)");
 //10/1 4 9...
-function numSquer(n) {
-  let x ='';
-  let y =0;
-  for (let i =1;i<=n; i++) {
-    y +=(2*i-1);
-    x += y+'';
-  }
-  return x;
+//function numSquer(n) {
+  //let x ='';
+  //let y =0;
+  //for (let i =1;i<=n; i++) {
+    //y +=(2*i-1);
+    //x += y+'';
+  //}
+  //return x;
+//}
+//console.log(numSquer(3));
+//11//...
+let num =1;
+while (num<=25) {
+  console.log(num);
+  num++;
 }
-console.log(numSquer(3));
 
 
 //15
