@@ -86,9 +86,15 @@
 //console.log(triangle(5,3,6,9,5))
 
 //8// 0 3 6 9...
-for (i=0; i<35;i+=3) {
-  console.log(i);
+//for (i=0; i<35;i+=3) {
+  //console.log(i);
+//}
+//9//...
+let factor = 1;
+for (i = 1;i<9; i++) {
+  factor = i * factor;
 }
+console.log("8.(8!)");
 
 
 //15
