@@ -1,6 +1,6 @@
 //My name is Jyldyz  Baryktabasova
   
-//1//function nameIs(name) {
+//№1//function nameIs(name) {
     //console.log("my name is" + name);
   //}
 
@@ -20,7 +20,7 @@
   //getConeVolume(10., 5);
 
 
-//functionName(height, radius)
+//№2//functionName(height, radius)
 //function getConeVolume(h, r) {
   //let V = 0
   //let pi = 3.14
@@ -28,14 +28,14 @@
 //}
 //getConeVolume(10., 5);
 
- //3//Длина строки равна ...
+ //№3//Длина строки равна ...
 
 //function strLength(text) {
   //console.log(text.length)
 //}
 //strLength("This is another")
 
- //4//functionName(num) //Число-четное ||Число-нечетное
+ //№4//functionName(num) //Число-четное ||Число-нечетное
 //function isEven(num){
   //if(num % 2 === 0){
     //console.log("even - " + num)
@@ -66,36 +66,36 @@
   //}
 //}
 
-//5 квадрат числа
+//№5 квадрат числа
 //function square(num){
   //return num = 2
 //}
 //console.log(square(5))
 
- //6//functionName(num)// Корень этого число равен 
+ //№6//functionName(num)// Корень этого число равен 
 //function root(a) {
   //return Math.sqrt(a)
 //}
 //console.log(root(25))
 
 
-  //7//functionName(a, b, c, d, e) // Периметр-...
+  //№7//functionName(a, b, c, d, e) // Периметр-...
 //function triangle(a, b, c, d, e) {
   //return a + b + c + d + e;
 //}
 //console.log(triangle(5,3,6,9,5))
 
-//8// 0 3 6 9...
+//№8// 0 3 6 9...
 //for (i=0; i<35;i+=3) {
   //console.log(i);
 //}
-//9//...
+//№9//...
 //let factor = 1;
 //for (i = 1;i<9; i++) {
   //factor = i * factor;
 //}
 //console.log("8.(8!)");
-//10/1 4 9...
+//№10/1 4 9...
 //function numSquer(n) {
   //let x ='';
   //let y =0;
@@ -106,16 +106,22 @@
   //return x;
 //}
 //console.log(numSquer(3));
-//11//...
+//№11//...
 //let num =1;
 //while (num<=25) {
   //console.log(num);
   //num++;
 //}
-//12//
-for (let i =2; i<=20; i++) {
-  if (i % 2==0){
-    console.log(i)
+//№12//
+//for (let i =2; i<=20; i++) {
+  //if (i % 2==0){
+    //console.log(i)
+  //}
+//}
+//№13//1 3...
+for (let i =1;i<15;i+=1) {
+  if (i % 2!==0) {
+    console.log(i);
   }
 }
 
