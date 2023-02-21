@@ -166,9 +166,8 @@
 //}
 //console.log(elem);
 //№21//
-cat-true
-parrot-false
-let animals = ["cat","dog","snake"];
-console.log(animals.indexOf('cat')!=-1);
-console.log(animals.includes('parrot'));
+
+//let animals = ["cat","dog","snake"];
+//console.log(animals.includes('cat'));
+//console.log(animals.includes('parrot'));
 
