@@ -28,14 +28,14 @@
 //}
 //getConeVolume(10., 5);
 
- //Длина строки равна ...
+ //3//Длина строки равна ...
 
-function strLength(text) {
-  console.log(text.length)
-}
-strLength("This is another")
+//function strLength(text) {
+  //console.log(text.length)
+//}
+//strLength("This is another")
 
-//4// functionName(num) // Число - четное || Число - нечетное
+ //4//functionName(num) //Число-четное ||Число-нечетное
 //function isEven(num){
   //if(num % 2 === 0){
     //console.log("even - " + num)
@@ -51,12 +51,13 @@ strLength("This is another")
 //isEven(7)
 //isEven("seven")
 
-// positive(num) // проверка на положительное число (true || false)
+ //positive(num) //проверка на положительное число(true||false)
 //function isPositive(num) {
   //return num >= 0;
 //}
 
-// вернуть положительное число
+ //  //вернуть положительное число
+ 
 //function toPositive(num) {
   //if (num >= 0) {
     //return num;
@@ -66,10 +67,10 @@ strLength("This is another")
 //}
 
 //5 квадрат числа
-//function square(num){
-  //return num = 2
-//}
-//console.log(square(5))
+function square(num){
+  return num = 2
+}
+console.log(square(5))
 
 // 6// functionName(num) // Корень этого числа равен
 //function root(a) {
