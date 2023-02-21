@@ -139,5 +139,14 @@
   //}
 //}
 //17//
-let phrase =["I","like","to","eat"];
-console.log(phrase.join());
+//let phrase =["I","like","to","eat"];
+//console.log(phrase.join());
+
+//18//["three","two","one"]
+//let number = ["one","two","three"];
+//for(let i=0;i<number.length;i++) {
+  //console.log(number[i]);
+//}
+//for (let i = number.length-1;i>=0; i--){
+  //console.log(number[i]);
+//}
