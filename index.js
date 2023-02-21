@@ -72,11 +72,11 @@
 //}
 //console.log(square(5))
 
- //functionName(num)// Корень этого число равен 
-//function root(a) {
-  //return Math.sqrt(a)
-//}
-//console.log(root(25))
+ //6//functionName(num)// Корень этого число равен 
+function root(a) {
+  return Math.sqrt(a)
+}
+console.log(root(25))
 
 
   //7//functionName(a, b, c, d, e) // Периметр-...
