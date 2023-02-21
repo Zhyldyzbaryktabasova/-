@@ -124,25 +124,25 @@
     //console.log(i);
   //}
 //}
-//14//
+//№14//
 //let fruits = ["mango","avokado"];
 //fruits.push("banana","orange");//adds
 //fruits.unshift("cocos","mandarine","kivi");//adds in the begining
 //console.log(fruits)
 
 
-//15
+//№15//
 //let num = [1,2,3,4,5,6,7,8,9,10];
 //for (let i =2; i<=10;i++) {
   //if (i%2==0) {
     //console.log(i);
   //}
 //}
-//17//
+//№17//
 //let phrase =["I","like","to","eat"];
 //console.log(phrase.join());
 
-//18//["three","two","one"]
+//№18//["three","two","one"]
 //let number = ["one","two","three"];
 //for(let i=0;i<number.length;i++) {
   //console.log(number[i]);
@@ -150,18 +150,25 @@
 //for (let i = number.length-1;i>=0; i--){
   //console.log(number[i]);
 //}
-//19//
-let trainer =["Ermek"];
-for (let i =0;i<trainer.length; i++) {
-  console.log("Hello" + trainer[i]);
-}
-let mentor = ["Erjan"];
-for (let i=0; i<mentor.length;i++) {
-  console.log("Hello"+mentor[i]);
-}
-//20// 4,9,16,25
+//№19//
+//let trainer =["Ermek"];
+//for (let i =0;i<trainer.length; i++) {
+  //console.log("Hello" + trainer[i]);
+//}
+//let mentor = ["Erjan"];
+//for (let i=0; i<mentor.length;i++) {
+  //console.log("Hello"+mentor[i]);
+//}
+//№20// 4,9,16,25
 //let elem=[2,3,4,5];
 //for (let i in elem) {
   //elem[i]=elem[i]**2;
 //}
 //console.log(elem);
+//№21//
+cat-true
+parrot-false
+let animals = ["cat","dog","snake"];
+console.log(animals.indexOf('cat')!=-1);
+console.log(animals.includes('parrot'));
+
